@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.xxmassdeveloper.mpchartexample"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="22" />
+
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+
+    <application
+        android:allowBackup="true"
+        android:hardwareAccelerated="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.xxmassdeveloper.mpchartexample.notimportant.MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name="com.xxmassdeveloper.mpchartexample.LineChartActivity1" />
+ <!-- android:configChanges="keyboardHidden|orientation|screenSize" -->
+        <activity android:name="com.xxmassdeveloper.mpchartexample.LineChartActivity2" />
+        <activity
+            android:name="com.xxmassdeveloper.mpchartexample.MultipleChartsActivity"
+            android:screenOrientation="landscape" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.BarChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.HorizontalBarChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.PieChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.MultiLineChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.BarChartActivityMultiDataset" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.DrawChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.ScatterChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.BubbleChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.fragments.SimpleChartDemo" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.ListViewBarChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.ListViewMultiChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.StackedBarActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.AnotherBarActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.InvertedLineChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.CandleStickChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.CubicLineChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.RadarChartActivitry" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.LineChartActivityColored" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.DynamicalAddingActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.RealtimeLineChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.CombinedChartActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.PerformanceLineChart" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.BarChartActivitySinus" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.ScrollViewActivity" />
+        <activity android:name="com.xxmassdeveloper.mpchartexample.StackedBarActivityNegative" />
+    </application>
+
+</manifest>

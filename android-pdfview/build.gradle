@@ -1,0 +1,22 @@
+apply plugin: 'com.android.library'
+apply plugin: 'maven'
+
+description = 'android-pdfview'
+
+android {
+    compileSdkVersion 22
+    buildToolsVersion '22.0.1'
+    sourceSets {
+        main {
+            jniLibs.srcDirs = [ 'libs' ]
+        }
+    }
+    defaultConfig {
+        versionCode 1
+        versionName "1.0"
+    }
+}
+
+dependencies {
+    compile fileTree(dir: 'libs', include: ['*.jar'])
+}

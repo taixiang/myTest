@@ -1,0 +1,5 @@
+include ':app', ':myapplication', ':myapplication2', ':xutil', ':xutiltest', ':recoder', ':otto', ':meituan', ':tabhosttest', ':qihuo', ':Mpchartexample', ':mychart', ':xclcharts', ':achartengine', ':listviewsliding', ':pulltorefresh', ':pulltorefresh-debug', ':subscribe', ':swipemenulistview', ':splashtest', ':AndroidLibs', ':android-pdfview', ':okhttptest', ':okhttplibrary', ':okhttputils', ':okhttpdemo', ':okhttp', ':friends', ':wechat'
+include ':topNewGrid'
+include ':vitamioRecorderLibrary'
+include ':vCameraDemo'
+include ':demo_WeChat_Friends_Circle'

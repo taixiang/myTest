@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="contentDes">des</string>
+    <string name="loading_more">正在加载</string>
+    <string name="default_face">默认</string>
+    <string name="emoji_face">Emoji</string>
+</resources>

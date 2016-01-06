@@ -1,0 +1,1031 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="20.0.0"><source path="E:\Test\AndroidLibs\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\res"/></dataSet><dataSet config="main"><source path="E:\Test\AndroidLibs\src\main\res"><file name="fragment_slide_down_out" path="E:\Test\AndroidLibs\src\main\res\anim\fragment_slide_down_out.xml" qualifiers="" type="anim"/><file name="fragment_slide_left_in" path="E:\Test\AndroidLibs\src\main\res\anim\fragment_slide_left_in.xml" qualifiers="" type="anim"/><file name="fragment_slide_right_out" path="E:\Test\AndroidLibs\src\main\res\anim\fragment_slide_right_out.xml" qualifiers="" type="anim"/><file name="fragment_slide_up_in" path="E:\Test\AndroidLibs\src\main\res\anim\fragment_slide_up_in.xml" qualifiers="" type="anim"/><file name="slide_in_from_bottom" path="E:\Test\AndroidLibs\src\main\res\anim\slide_in_from_bottom.xml" qualifiers="" type="anim"/><file name="slide_in_from_top" path="E:\Test\AndroidLibs\src\main\res\anim\slide_in_from_top.xml" qualifiers="" type="anim"/><file name="slide_out_to_bottom" path="E:\Test\AndroidLibs\src\main\res\anim\slide_out_to_bottom.xml" qualifiers="" type="anim"/><file name="slide_out_to_top" path="E:\Test\AndroidLibs\src\main\res\anim\slide_out_to_top.xml" qualifiers="" type="anim"/><file name="emotion_smiley_tab_bg" path="E:\Test\AndroidLibs\src\main\res\drawable\emotion_smiley_tab_bg.xml" qualifiers="" type="drawable"/><file name="global_input_delete" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_delete.xml" qualifiers="" type="drawable"/><file name="global_input_face_delete_click" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_face_delete_click.png" qualifiers="" type="drawable"/><file name="global_input_face_delete_default" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_face_delete_default.png" qualifiers="" type="drawable"/><file name="global_input_face_select_bottom_background" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_face_select_bottom_background.9.png" qualifiers="" type="drawable"/><file name="global_input_face_type_background_click" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_face_type_background_click.png" qualifiers="" type="drawable"/><file name="global_input_face_type_background_default" path="E:\Test\AndroidLibs\src\main\res\drawable\global_input_face_type_background_default.png" qualifiers="" type="drawable"/><file name="global_line_horizontal" path="E:\Test\AndroidLibs\src\main\res\drawable\global_line_horizontal.png" qualifiers="" type="drawable"/><file name="global_loading_complete" path="E:\Test\AndroidLibs\src\main\res\drawable\global_loading_complete.png" qualifiers="" type="drawable"/><file name="global_loading_default" path="E:\Test\AndroidLibs\src\main\res\drawable\global_loading_default.png" qualifiers="" type="drawable"/><file name="global_vertical_line" path="E:\Test\AndroidLibs\src\main\res\drawable\global_vertical_line.png" qualifiers="" type="drawable"/><file name="indicator_arrow" path="E:\Test\AndroidLibs\src\main\res\drawable\indicator_arrow.png" qualifiers="" type="drawable"/><file name="indicator_bg_bottom" path="E:\Test\AndroidLibs\src\main\res\drawable\indicator_bg_bottom.xml" qualifiers="" type="drawable"/><file name="indicator_bg_top" path="E:\Test\AndroidLibs\src\main\res\drawable\indicator_bg_top.xml" qualifiers="" type="drawable"/><file name="loading_progress" path="E:\Test\AndroidLibs\src\main\res\drawable\loading_progress.xml" qualifiers="" type="drawable"/><file name="ptr_default_flip" path="E:\Test\AndroidLibs\src\main\res\drawable\ptr_default_flip.png" qualifiers="" type="drawable"/><file name="ptr_default_rotate" path="E:\Test\AndroidLibs\src\main\res\drawable\ptr_default_rotate.png" qualifiers="" type="drawable"/><file name="ptr_listview_footer_nomore" path="E:\Test\AndroidLibs\src\main\res\drawable\ptr_listview_footer_nomore.png" qualifiers="" type="drawable"/><file name="ptr_pulltorefresh_arrow" path="E:\Test\AndroidLibs\src\main\res\drawable\ptr_pulltorefresh_arrow.png" qualifiers="" type="drawable"/><file name="ptr_selector_no_pressed" path="E:\Test\AndroidLibs\src\main\res\drawable\ptr_selector_no_pressed.xml" qualifiers="" type="drawable"/><file name="richtext_icon_location" path="E:\Test\AndroidLibs\src\main\res\drawable\richtext_icon_location.png" qualifiers="" type="drawable"/><file name="umeng_common_gradient_green" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_common_gradient_green.xml" qualifiers="" type="drawable"/><file name="umeng_common_gradient_orange" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_common_gradient_orange.xml" qualifiers="" type="drawable"/><file name="umeng_common_gradient_red" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_common_gradient_red.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_focused" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_cancel_bg_focused.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_normal" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_cancel_bg_normal.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_selector" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_cancel_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_cancel_bg_tap" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_cancel_bg_tap.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_check_selector" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_check_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_close_bg_selector" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_close_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_focused" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_ok_bg_focused.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_normal" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_ok_bg_normal.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_selector" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_ok_bg_selector.xml" qualifiers="" type="drawable"/><file name="umeng_update_button_ok_bg_tap" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_button_ok_bg_tap.xml" qualifiers="" type="drawable"/><file name="umeng_update_dialog_bg" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_dialog_bg.xml" qualifiers="" type="drawable"/><file name="umeng_update_title_bg" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_title_bg.xml" qualifiers="" type="drawable"/><file name="umeng_update_wifi_disable" path="E:\Test\AndroidLibs\src\main\res\drawable\umeng_update_wifi_disable.png" qualifiers="" type="drawable"/><file name="umeng_update_btn_check_off_focused_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_off_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_btn_check_off_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_off_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_btn_check_off_pressed_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_off_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_btn_check_on_focused_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_on_focused_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_btn_check_on_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_on_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_btn_check_on_pressed_holo_light" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_btn_check_on_pressed_holo_light.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_close_bg_normal" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_close_bg_normal.png" qualifiers="hdpi-v4" type="drawable"/><file name="umeng_update_close_bg_tap" path="E:\Test\AndroidLibs\src\main\res\drawable-hdpi\umeng_update_close_bg_tap.png" qualifiers="hdpi-v4" type="drawable"/><file name="emoji_0" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_0.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_1" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_1.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_10" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_10.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_100" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_100.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_101" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_101.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_102" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_102.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_103" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_103.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_104" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_104.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_105" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_105.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_106" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_106.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_107" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_107.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_108" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_108.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_109" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_109.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_11" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_11.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_110" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_110.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_111" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_111.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_112" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_112.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_113" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_113.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_114" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_114.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_115" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_115.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_116" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_116.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_117" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_117.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_118" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_118.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_119" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_119.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_12" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_12.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_120" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_120.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_121" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_121.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_122" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_122.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_123" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_123.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_124" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_124.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_125" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_125.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_126" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_126.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_128" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_128.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_129" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_129.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_13" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_13.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_130" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_130.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_131" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_131.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_132" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_132.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_133" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_133.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_134" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_134.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_135" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_135.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_136" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_136.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_137" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_137.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_138" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_138.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_139" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_139.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_14" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_14.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_140" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_140.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_141" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_141.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_142" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_142.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_143" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_143.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_144" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_144.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_145" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_145.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_146" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_146.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_147" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_147.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_148" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_148.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_149" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_149.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_15" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_15.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_150" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_150.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_151" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_151.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_152" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_152.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_153" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_153.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_154" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_154.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_155" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_155.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_156" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_156.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_157" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_157.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_158" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_158.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_159" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_159.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_16" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_16.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_160" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_160.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_161" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_161.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_162" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_162.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_163" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_163.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_164" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_164.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_165" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_165.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_166" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_166.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_167" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_167.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_168" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_168.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_169" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_169.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_17" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_17.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_170" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_170.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_171" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_171.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_172" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_172.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_173" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_173.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_174" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_174.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_175" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_175.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_176" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_176.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_177" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_177.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_178" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_178.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_179" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_179.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_18" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_18.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_180" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_180.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_181" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_181.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_182" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_182.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_183" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_183.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_184" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_184.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_185" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_185.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_186" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_186.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_187" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_187.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_188" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_188.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_189" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_189.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_19" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_19.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_190" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_190.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_191" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_191.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_192" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_192.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_193" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_193.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_194" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_194.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_195" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_195.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_196" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_196.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_197" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_197.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_198" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_198.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_199" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_199.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_2" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_2.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_20" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_20.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_200" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_200.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_201" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_201.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_202" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_202.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_203" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_203.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_204" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_204.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_205" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_205.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_206" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_206.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_207" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_207.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_208" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_208.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_209" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_209.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_21" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_21.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_210" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_210.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_211" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_211.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_212" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_212.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_213" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_213.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_214" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_214.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_215" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_215.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_216" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_216.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_217" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_217.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_218" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_218.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_219" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_219.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_22" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_22.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_220" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_220.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_221" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_221.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_222" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_222.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_223" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_223.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_224" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_224.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_225" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_225.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_226" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_226.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_227" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_227.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_228" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_228.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_229" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_229.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_23" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_23.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_230" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_230.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_231" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_231.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_232" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_232.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_233" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_233.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_234" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_234.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_235" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_235.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_236" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_236.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_237" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_237.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_238" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_238.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_239" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_239.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_24" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_24.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_240" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_240.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_241" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_241.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_242" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_242.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_243" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_243.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_244" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_244.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_245" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_245.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_246" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_246.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_247" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_247.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_248" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_248.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_249" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_249.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_25" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_25.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_250" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_250.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_251" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_251.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_252" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_252.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_253" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_253.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_254" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_254.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_255" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_255.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_256" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_256.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_257" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_257.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_258" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_258.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_259" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_259.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_26" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_26.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_260" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_260.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_261" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_261.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_262" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_262.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_263" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_263.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_264" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_264.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_265" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_265.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_266" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_266.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_267" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_267.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_268" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_268.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_269" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_269.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_27" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_27.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_270" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_270.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_271" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_271.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_272" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_272.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_273" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_273.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_274" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_274.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_275" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_275.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_276" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_276.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_277" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_277.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_278" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_278.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_279" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_279.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_28" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_28.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_280" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_280.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_281" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_281.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_282" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_282.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_283" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_283.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_284" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_284.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_285" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_285.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_286" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_286.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_287" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_287.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_288" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_288.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_289" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_289.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_29" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_29.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_290" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_290.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_291" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_291.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_292" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_292.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_293" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_293.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_294" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_294.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_295" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_295.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_296" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_296.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_297" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_297.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_298" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_298.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_299" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_299.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_3" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_3.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_30" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_30.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_300" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_300.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_301" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_301.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_302" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_302.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_303" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_303.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_304" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_304.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_305" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_305.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_306" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_306.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_307" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_307.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_308" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_308.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_309" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_309.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_31" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_31.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_310" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_310.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_311" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_311.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_312" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_312.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_313" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_313.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_314" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_314.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_315" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_315.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_316" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_316.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_317" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_317.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_318" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_318.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_319" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_319.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_32" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_32.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_320" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_320.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_321" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_321.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_322" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_322.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_323" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_323.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_324" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_324.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_325" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_325.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_326" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_326.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_327" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_327.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_328" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_328.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_329" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_329.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_33" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_33.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_330" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_330.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_331" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_331.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_332" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_332.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_333" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_333.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_334" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_334.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_335" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_335.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_336" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_336.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_337" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_337.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_338" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_338.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_339" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_339.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_34" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_34.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_340" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_340.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_341" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_341.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_342" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_342.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_343" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_343.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_344" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_344.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_345" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_345.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_346" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_346.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_347" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_347.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_348" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_348.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_349" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_349.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_35" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_35.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_350" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_350.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_351" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_351.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_352" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_352.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_353" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_353.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_354" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_354.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_355" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_355.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_356" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_356.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_357" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_357.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_358" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_358.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_359" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_359.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_36" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_36.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_360" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_360.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_361" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_361.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_362" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_362.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_363" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_363.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_364" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_364.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_365" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_365.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_366" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_366.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_367" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_367.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_368" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_368.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_369" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_369.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_37" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_37.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_370" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_370.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_371" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_371.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_372" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_372.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_373" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_373.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_374" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_374.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_375" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_375.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_376" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_376.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_377" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_377.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_378" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_378.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_379" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_379.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_38" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_38.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_380" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_380.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_381" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_381.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_382" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_382.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_383" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_383.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_384" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_384.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_385" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_385.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_386" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_386.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_387" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_387.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_388" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_388.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_389" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_389.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_39" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_39.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_390" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_390.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_391" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_391.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_392" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_392.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_393" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_393.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_394" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_394.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_395" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_395.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_396" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_396.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_397" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_397.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_398" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_398.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_399" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_399.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_4" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_4.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_40" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_40.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_400" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_400.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_401" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_401.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_402" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_402.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_403" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_403.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_404" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_404.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_405" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_405.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_406" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_406.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_407" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_407.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_408" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_408.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_409" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_409.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_41" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_41.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_410" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_410.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_411" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_411.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_412" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_412.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_413" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_413.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_414" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_414.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_415" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_415.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_416" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_416.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_417" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_417.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_418" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_418.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_419" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_419.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_42" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_42.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_420" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_420.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_421" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_421.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_422" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_422.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_423" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_423.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_424" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_424.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_425" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_425.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_426" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_426.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_427" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_427.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_428" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_428.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_429" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_429.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_43" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_43.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_430" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_430.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_431" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_431.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_432" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_432.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_433" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_433.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_434" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_434.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_435" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_435.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_436" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_436.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_437" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_437.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_438" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_438.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_439" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_439.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_44" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_44.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_440" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_440.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_441" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_441.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_442" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_442.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_443" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_443.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_444" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_444.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_445" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_445.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_446" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_446.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_447" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_447.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_448" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_448.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_449" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_449.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_45" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_45.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_450" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_450.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_451" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_451.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_452" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_452.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_453" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_453.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_454" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_454.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_455" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_455.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_456" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_456.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_457" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_457.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_458" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_458.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_459" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_459.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_46" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_46.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_460" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_460.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_461" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_461.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_462" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_462.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_463" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_463.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_464" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_464.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_465" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_465.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_466" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_466.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_467" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_467.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_468" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_468.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_469" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_469.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_47" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_47.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_470" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_470.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_48" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_48.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_49" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_49.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_5" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_5.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_50" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_50.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_51" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_51.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_52" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_52.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_53" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_53.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_54" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_54.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_55" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_55.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_56" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_56.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_57" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_57.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_58" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_58.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_59" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_59.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_6" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_6.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_60" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_60.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_61" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_61.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_62" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_62.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_63" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_63.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_64" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_64.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_65" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_65.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_66" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_66.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_67" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_67.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_68" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_68.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_69" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_69.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_7" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_7.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_70" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_70.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_71" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_71.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_72" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_72.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_73" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_73.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_74" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_74.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_75" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_75.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_76" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_76.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_77" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_77.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_78" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_78.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_79" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_79.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_8" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_8.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_80" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_80.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_81" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_81.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_82" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_82.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_83" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_83.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_84" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_84.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_85" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_85.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_86" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_86.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_87" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_87.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_88" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_88.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_89" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_89.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_9" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_9.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_90" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_90.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_91" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_91.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_92" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_92.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_93" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_93.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_94" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_94.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_95" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_95.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_96" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_96.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_97" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_97.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_98" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_98.png" qualifiers="ldpi-v4" type="drawable"/><file name="emoji_99" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\emoji_99.png" qualifiers="ldpi-v4" type="drawable"/><file name="ic_launcher" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\ic_launcher.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_0" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_0.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_1" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_1.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_10" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_10.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_11" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_11.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_12" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_12.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_13" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_13.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_14" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_14.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_15" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_15.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_16" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_16.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_17" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_17.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_18" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_18.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_19" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_19.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_2" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_2.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_20" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_20.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_21" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_21.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_22" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_22.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_23" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_23.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_24" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_24.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_25" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_25.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_26" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_26.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_27" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_27.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_28" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_28.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_29" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_29.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_3" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_3.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_30" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_30.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_31" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_31.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_32" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_32.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_33" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_33.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_34" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_34.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_35" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_35.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_36" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_36.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_37" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_37.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_38" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_38.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_39" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_39.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_4" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_4.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_40" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_40.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_41" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_41.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_42" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_42.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_43" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_43.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_44" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_44.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_45" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_45.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_46" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_46.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_47" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_47.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_48" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_48.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_49" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_49.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_5" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_5.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_50" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_50.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_51" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_51.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_52" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_52.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_53" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_53.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_54" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_54.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_55" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_55.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_56" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_56.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_57" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_57.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_58" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_58.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_59" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_59.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_6" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_6.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_60" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_60.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_61" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_61.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_62" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_62.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_63" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_63.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_64" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_64.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_65" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_65.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_66" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_66.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_67" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_67.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_68" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_68.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_69" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_69.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_7" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_7.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_70" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_70.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_71" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_71.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_72" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_72.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_73" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_73.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_74" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_74.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_75" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_75.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_76" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_76.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_77" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_77.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_78" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_78.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_79" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_79.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_8" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_8.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_80" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_80.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_81" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_81.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_82" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_82.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_83" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_83.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_84" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_84.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_85" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_85.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_86" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_86.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_87" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_87.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_88" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_88.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_89" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_89.png" qualifiers="ldpi-v4" type="drawable"/><file name="smile_9" path="E:\Test\AndroidLibs\src\main\res\drawable-ldpi\smile_9.png" qualifiers="ldpi-v4" type="drawable"/><file name="dialog_progress" path="E:\Test\AndroidLibs\src\main\res\layout\dialog_progress.xml" qualifiers="" type="layout"/><file name="emotion_smiley_grid" path="E:\Test\AndroidLibs\src\main\res\layout\emotion_smiley_grid.xml" qualifiers="" type="layout"/><file name="emotion_smiley_grid_item_s" path="E:\Test\AndroidLibs\src\main\res\layout\emotion_smiley_grid_item_s.xml" qualifiers="" type="layout"/><file name="emotion_smiley_panel" path="E:\Test\AndroidLibs\src\main\res\layout\emotion_smiley_panel.xml" qualifiers="" type="layout"/><file name="ptr_header" path="E:\Test\AndroidLibs\src\main\res\layout\ptr_header.xml" qualifiers="" type="layout"/><file name="ptr_listview_footer" path="E:\Test\AndroidLibs\src\main\res\layout\ptr_listview_footer.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_horizontal" path="E:\Test\AndroidLibs\src\main\res\layout\pull_to_refresh_header_horizontal.xml" qualifiers="" type="layout"/><file name="pull_to_refresh_header_vertical" path="E:\Test\AndroidLibs\src\main\res\layout\pull_to_refresh_header_vertical.xml" qualifiers="" type="layout"/><file name="umeng_common_download_notification" path="E:\Test\AndroidLibs\src\main\res\layout\umeng_common_download_notification.xml" qualifiers="" type="layout"/><file name="umeng_update_dialog" path="E:\Test\AndroidLibs\src\main\res\layout\umeng_update_dialog.xml" qualifiers="" type="layout"/><file name="umeng_common_download_notification" path="E:\Test\AndroidLibs\src\main\res\layout-v9\umeng_common_download_notification.xml" qualifiers="v9" type="layout"/><file path="E:\Test\AndroidLibs\src\main\res\values\arrays.xml" qualifiers=""><string-array name="smile_values">
+        <item>微笑</item>
+        <item>YY</item>
+        <item>抱抱</item>
+        <item>鄙视</item>
+        <item>拜拜</item>
+        <item>闭嘴</item>
+        <item>馋</item>
+        <item>大哭</item>
+        <item>翻白眼</item>
+        <item>奋斗</item>
+        <item>鼓掌</item>
+        <item>害羞</item>
+        <item>哼</item>
+        <item>坏笑</item>
+        <item>见钱眼开</item>
+        <item>囧</item>
+        <item>纠结</item>
+        <item>可怜</item>
+        <item>抠鼻屎</item>
+        <item>哭泣</item>
+        <item>酷</item>
+        <item>困</item>
+        <item>怒骂</item>
+        <item>呕吐</item>
+        <item>亲亲</item>
+        <item>糗大了</item>
+        <item>色</item>
+        <item>不高兴</item>
+        <item>烧香</item>
+        <item>书呆子</item>
+        <item>睡觉</item>
+        <item>偷笑</item>
+        <item>委屈</item>
+        <item>想你</item>
+        <item>幸福</item>
+        <item>晕</item>
+        <item>打你</item>
+        <item>抓狂</item>
+        <item>呲牙</item>
+        <item>强</item>
+        <item>弱</item>
+        <item>胜利</item>
+        <item>OK</item>
+        <item>佩服</item>
+        <item>握手</item>
+        <item>爱心</item>
+        <item>心碎</item>
+        <item>小熊</item>
+        <item>蛋糕</item>
+        <item>太阳</item>
+        <item>彩虹</item>
+        <item>雪花</item>
+        <item>药箱</item>
+        <item>奶瓶</item>
+        <item>画板</item>
+        <item>猪猪</item>
+        <item>米饭</item>
+        <item>足球</item>
+        <item>蜡烛</item>
+        <item>星星</item>
+        <item>月亮</item>
+        <item>手套</item>
+        <item>蘑菇</item>
+        <item>威武</item>
+        <item>音符</item>
+        <item>冰棍</item>
+        <item>爸爸跳舞</item>
+        <item>妈妈跳舞</item>
+        <item>创口贴</item>
+        <item>便便</item>
+        <item>围观</item>
+        <item>狗狗</item>
+        <item>猫猫</item>
+        <item>示爱</item>
+        <item>西瓜</item>
+        <item>苹果</item>
+        <item>礼物</item>
+        <item>玫瑰</item>
+        <item>凋谢</item>
+        <item>咖啡</item>
+        <item>药丸</item>
+        <item>花</item>
+        <item>闪电</item>
+        <item>杯子</item>
+        <item>相机</item>
+        <item>章鱼</item>
+        <item>多云</item>
+        <item>飞机</item>
+        <item>皇冠</item>
+        <item>叶子</item>
+    </string-array><string-array name="emoji_name_en">
+        <item>Sweat</item>
+        <item>Smirk</item>
+        <item>Hmm</item>
+        <item>Grin</item>
+        <item>Wink</item>
+        <item>Scream</item>
+        <item>Sick</item>
+        <item>Kiss</item>
+        <item>Funny</item>
+        <item>Relax</item>
+        <item>Bad</item>
+        <item>Mask</item>
+        <item>Boggle</item>
+        <item>Boring</item>
+        <item>Panic</item>
+        <item>Dizzy</item>
+        <item>Cry</item>
+        <item>Blink</item>
+        <item>blowkiss</item>
+        <item>pouting</item>
+        <item>Muscle</item>
+        <item>Fist</item>
+        <item>Strong</item>
+        <item>No</item>
+        <item>Clap</item>
+        <item>Yeah</item>
+        <item>Weak</item>
+        <item>Worship</item>
+        <item>OK</item>
+        <item>Left</item>
+        <item>Right</item>
+        <item>Up</item>
+        <item>Down</item>
+        <item>Eyes</item>
+        <item>Nose</item>
+        <item>Lip</item>
+        <item>Ear</item>
+        <item>Rice</item>
+        <item>Pasta</item>
+        <item>Noodle</item>
+        <item>Onigiri</item>
+        <item>Ice</item>
+        <item>Sushi</item>
+        <item>Cake</item>
+        <item>Bread</item>
+        <item>Burger</item>
+        <item>Egg</item>
+        <item>Fries</item>
+        <item>Beer</item>
+        <item>Cheers</item>
+        <item>Goblet</item>
+        <item>Coffee</item>
+        <item>Apple</item>
+        <item>Orange</item>
+        <item>Berry</item>
+        <item>Melon</item>
+        <item>Pill</item>
+        <item>Smoke</item>
+        <item>Xmastree</item>
+        <item>Rose</item>
+        <item>Salute</item>
+        <item>Palm</item>
+        <item>Gift</item>
+        <item>Bowtie</item>
+        <item>Ballon</item>
+        <item>Shell</item>
+        <item>Ring</item>
+        <item>Bomb</item>
+        <item>Crown</item>
+        <item>Bell</item>
+        <item>Star</item>
+        <item>Shine</item>
+        <item>Scoot</item>
+        <item>Spout</item>
+        <item>Onfire</item>
+        <item>Trophy</item>
+        <item>Dollar</item>
+        <item>Sleepy</item>
+        <item>Thunder</item>
+        <item>Pug</item>
+        <item>Shit</item>
+        <item>Inject</item>
+        <item>Spicy</item>
+        <item>Mailbox</item>
+        <item>Key</item>
+        <item>Lock</item>
+        <item>Plane</item>
+        <item>Train</item>
+        <item>Car</item>
+        <item>Boat</item>
+        <item>Bike</item>
+        <item>Horse</item>
+        <item>Rocket</item>
+        <item>Bus</item>
+        <item>Yacht</item>
+        <item>Women</item>
+        <item>Man</item>
+        <item>Girl</item>
+        <item>Boy</item>
+        <item>Monkey</item>
+        <item>Octopus</item>
+        <item>Pig</item>
+        <item>Alien</item>
+        <item>Duck</item>
+        <item>Bear</item>
+        <item>Cow</item>
+        <item>Cock</item>
+        <item>Frog</item>
+        <item>Ghost</item>
+        <item>Skull</item>
+        <item>Worm</item>
+        <item>Fish</item>
+        <item>Dog</item>
+        <item>Cat</item>
+        <item>Angel</item>
+        <item>Bird</item>
+        <item>Whale</item>
+        <item>Mouse</item>
+        <item>Hat</item>
+        <item>Dress</item>
+        <item>Lippie</item>
+        <item>Highheels</item>
+        <item>Boots</item>
+        <item>Parasol</item>
+        <item>Bag</item>
+        <item>Bikini</item>
+        <item>T-shirt</item>
+        <item>Shoes</item>
+        <item>Cloud</item>
+        <item>Sun</item>
+        <item>Rain</item>
+        <item>Moon</item>
+        <item>Snow</item>
+        <item>Circle</item>
+        <item>Cross</item>
+        <item>？</item>
+        <item>！</item>
+        <item>Phone</item>
+        <item>Camera</item>
+        <item>Mobile</item>
+        <item>Fax</item>
+        <item>Screen</item>
+        <item>Camera</item>
+        <item>Karaoke</item>
+        <item>Gun</item>
+        <item>Disk</item>
+        <item>Heart</item>
+        <item>Poker</item>
+        <item>Mahjong</item>
+        <item>Stock</item>
+        <item>Slot</item>
+        <item>Signal</item>
+        <item>Block</item>
+        <item>Guitar</item>
+        <item>Barber</item>
+        <item>Bath</item>
+        <item>Toilet</item>
+        <item>House</item>
+        <item>Chruch</item>
+        <item>Bank</item>
+        <item>Hospital</item>
+        <item>Hotel</item>
+        <item>ATM</item>
+        <item>Store</item>
+        <item>Male</item>
+        <item>Female</item>
+    </string-array><string-array name="emoji_code">
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+        <item></item>
+    </string-array><string-array name="emoji_file">
+        <item>340</item>
+        <item>341</item>
+        <item>342</item>
+        <item>343</item>
+        <item>344</item>
+        <item>96</item>
+        <item>346</item>
+        <item>362</item>
+        <item>348</item>
+        <item>349</item>
+        <item>350</item>
+        <item>351</item>
+        <item>352</item>
+        <item>353</item>
+        <item>354</item>
+        <item>355</item>
+        <item>356</item>
+        <item>94</item>
+        <item>363</item>
+        <item>361</item>
+        <item>165</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>370</item>
+        <item>16</item>
+        <item>372</item>
+        <item>368</item>
+        <item>371</item>
+        <item>227</item>
+        <item>228</item>
+        <item>225</item>
+        <item>226</item>
+        <item>364</item>
+        <item>365</item>
+        <item>367</item>
+        <item>366</item>
+        <item>324</item>
+        <item>325</item>
+        <item>326</item>
+        <item>328</item>
+        <item>402</item>
+        <item>330</item>
+        <item>337</item>
+        <item>319</item>
+        <item>121</item>
+        <item>160</item>
+        <item>321</item>
+        <item>70</item>
+        <item>274</item>
+        <item>67</item>
+        <item>68</item>
+        <item>331</item>
+        <item>332</item>
+        <item>333</item>
+        <item>334</item>
+        <item>277</item>
+        <item>276</item>
+        <item>50</item>
+        <item>49</item>
+        <item>280</item>
+        <item>269</item>
+        <item>394</item>
+        <item>282</item>
+        <item>278</item>
+        <item>404</item>
+        <item>51</item>
+        <item>279</item>
+        <item>103</item>
+        <item>299</item>
+        <item>309</item>
+        <item>308</item>
+        <item>310</item>
+        <item>311</item>
+        <item>118</item>
+        <item>138</item>
+        <item>136</item>
+        <item>149</item>
+        <item>150</item>
+        <item>469</item>
+        <item>89</item>
+        <item>148</item>
+        <item>124</item>
+        <item>90</item>
+        <item>62</item>
+        <item>157</item>
+        <item>28</item>
+        <item>392</item>
+        <item>26</item>
+        <item>142</item>
+        <item>143</item>
+        <item>141</item>
+        <item>102</item>
+        <item>178</item>
+        <item>27</item>
+        <item>4</item>
+        <item>3</item>
+        <item>1</item>
+        <item>0</item>
+        <item>98</item>
+        <item>99</item>
+        <item>100</item>
+        <item>101</item>
+        <item>450</item>
+        <item>454</item>
+        <item>458</item>
+        <item>461</item>
+        <item>464</item>
+        <item>116</item>
+        <item>117</item>
+        <item>452</item>
+        <item>449</item>
+        <item>81</item>
+        <item>79</item>
+        <item>77</item>
+        <item>84</item>
+        <item>83</item>
+        <item>82</item>
+        <item>286</item>
+        <item>287</item>
+        <item>290</item>
+        <item>151</item>
+        <item>289</item>
+        <item>399</item>
+        <item>297</item>
+        <item>296</item>
+        <item>5</item>
+        <item>6</item>
+        <item>72</item>
+        <item>73</item>
+        <item>74</item>
+        <item>75</item>
+        <item>71</item>
+        <item>312</item>
+        <item>313</item>
+        <item>316</item>
+        <item>317</item>
+        <item>8</item>
+        <item>7</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>60</item>
+        <item>59</item>
+        <item>108</item>
+        <item>127</item>
+        <item>301</item>
+        <item>193</item>
+        <item>134</item>
+        <item>133</item>
+        <item>140</item>
+        <item>167</item>
+        <item>144</item>
+        <item>64</item>
+        <item>294</item>
+        <item>152</item>
+        <item>153</item>
+        <item>53</item>
+        <item>54</item>
+        <item>166</item>
+        <item>174</item>
+        <item>177</item>
+        <item>173</item>
+        <item>175</item>
+        <item>145</item>
+        <item>146</item>
+    </string-array><string-array name="emoji_name_tw">
+        <item>汗</item>
+        <item>假笑</item>
+        <item>哼</item>
+        <item>咧嘴</item>
+        <item>玩笑</item>
+        <item>吶喊</item>
+        <item>難受</item>
+        <item>親親</item>
+        <item>調皮</item>
+        <item>放鬆</item>
+        <item>衰</item>
+        <item>口罩</item>
+        <item>嚇</item>
+        <item>沒勁</item>
+        <item>驚恐</item>
+        <item>茫然</item>
+        <item>大哭</item>
+        <item>眨眼</item>
+        <item>飛吻</item>
+        <item>發怒</item>
+        <item>肌肉</item>
+        <item>拳頭</item>
+        <item>強</item>
+        <item>不</item>
+        <item>鼓掌</item>
+        <item>剪刀手</item>
+        <item>弱</item>
+        <item>膜拜</item>
+        <item>OK</item>
+        <item>左</item>
+        <item>右</item>
+        <item>上</item>
+        <item>下</item>
+        <item>眼睛</item>
+        <item>鼻子</item>
+        <item>嘴唇</item>
+        <item>耳朵</item>
+        <item>飯</item>
+        <item>意大利面</item>
+        <item>面條</item>
+        <item>飯團</item>
+        <item>冰淇淋</item>
+        <item>壽司</item>
+        <item>蛋糕</item>
+        <item>面包</item>
+        <item>漢堡</item>
+        <item>煎蛋</item>
+        <item>薯條</item>
+        <item>啤酒</item>
+        <item>幹杯</item>
+        <item>高腳杯</item>
+        <item>茶</item>
+        <item>蘋果</item>
+        <item>橙子</item>
+        <item>草莓</item>
+        <item>西瓜</item>
+        <item>藥丸</item>
+        <item>吸煙</item>
+        <item>聖誕樹</item>
+        <item>玫瑰</item>
+        <item>禮花</item>
+        <item>椰樹</item>
+        <item>禮物</item>
+        <item>蝴蝶結</item>
+        <item>氣球</item>
+        <item>貝殼</item>
+        <item>指環</item>
+        <item>炸彈</item>
+        <item>皇冠</item>
+        <item>鐘</item>
+        <item>星標</item>
+        <item>驚訝</item>
+        <item>跑遠</item>
+        <item>噴口水</item>
+        <item>怒火</item>
+        <item>獎杯</item>
+        <item>錢</item>
+        <item>困</item>
+        <item>閃電</item>
+        <item>腳印</item>
+        <item>屎</item>
+        <item>打針</item>
+        <item>辣</item>
+        <item>郵箱</item>
+        <item>鑰匙</item>
+        <item>鎖</item>
+        <item>飛機</item>
+        <item>火車</item>
+        <item>轎車</item>
+        <item>船</item>
+        <item>自行車</item>
+        <item>馬</item>
+        <item>火箭</item>
+        <item>巴士</item>
+        <item>帆船</item>
+        <item>女人</item>
+        <item>男人</item>
+        <item>女孩</item>
+        <item>男孩</item>
+        <item>猴頭</item>
+        <item>章魚</item>
+        <item>豬頭</item>
+        <item>外星人</item>
+        <item>鴨子</item>
+        <item>熊</item>
+        <item>奶牛</item>
+        <item>公雞</item>
+        <item>青蛙</item>
+        <item>鬼</item>
+        <item>骷髏</item>
+        <item>毛毛蟲</item>
+        <item>魚</item>
+        <item>狗</item>
+        <item>貓</item>
+        <item>天使</item>
+        <item>小鳥</item>
+        <item>鯨魚</item>
+        <item>老鼠</item>
+        <item>帽子</item>
+        <item>裙子</item>
+        <item>唇膏</item>
+        <item>高跟鞋</item>
+        <item>靴子</item>
+        <item>傘</item>
+        <item>包</item>
+        <item>比基尼</item>
+        <item>襯衣</item>
+        <item>皮鞋</item>
+        <item>雲</item>
+        <item>太陽</item>
+        <item>下雨</item>
+        <item>月亮</item>
+        <item>下雪</item>
+        <item>圈</item>
+        <item>叉</item>
+        <item>問號</item>
+        <item>嘆號</item>
+        <item>電話</item>
+        <item>相機</item>
+        <item>手機</item>
+        <item>傳真機</item>
+        <item>屏幕</item>
+        <item>攝影機</item>
+        <item>卡拉OK</item>
+        <item>槍</item>
+        <item>光盤</item>
+        <item>心</item>
+        <item>撲克</item>
+        <item>麻將</item>
+        <item>股票</item>
+        <item>老虎機</item>
+        <item>交通燈</item>
+        <item>路障</item>
+        <item>吉他</item>
+        <item>理發店</item>
+        <item>洗澡</item>
+        <item>馬桶</item>
+        <item>房子</item>
+        <item>教堂</item>
+        <item>銀行</item>
+        <item>醫院</item>
+        <item>酒店</item>
+        <item>ATM</item>
+        <item>便利店</item>
+        <item>男性</item>
+        <item>女性</item>
+    </string-array><string-array name="emoji_name_ch">
+        <item>汗</item>
+        <item>假笑</item>
+        <item>哼</item>
+        <item>咧嘴</item>
+        <item>玩笑</item>
+        <item>呐喊</item>
+        <item>难受</item>
+        <item>亲亲</item>
+        <item>调皮</item>
+        <item>放松</item>
+        <item>衰</item>
+        <item>口罩</item>
+        <item>吓</item>
+        <item>没劲</item>
+        <item>惊恐</item>
+        <item>茫然</item>
+        <item>大哭</item>
+        <item>眨眼</item>
+        <item>飞吻</item>
+        <item>发怒</item>
+        <item>肌肉</item>
+        <item>拳头</item>
+        <item>强</item>
+        <item>不</item>
+        <item>鼓掌</item>
+        <item>剪刀手</item>
+        <item>弱</item>
+        <item>膜拜</item>
+        <item>OK</item>
+        <item>左</item>
+        <item>右</item>
+        <item>上</item>
+        <item>下</item>
+        <item>眼睛</item>
+        <item>鼻子</item>
+        <item>嘴唇</item>
+        <item>耳朵</item>
+        <item>饭</item>
+        <item>意大利面</item>
+        <item>面条</item>
+        <item>饭团</item>
+        <item>冰淇淋</item>
+        <item>寿司</item>
+        <item>蛋糕</item>
+        <item>面包</item>
+        <item>汉堡</item>
+        <item>煎蛋</item>
+        <item>薯条</item>
+        <item>啤酒</item>
+        <item>干杯</item>
+        <item>高脚杯</item>
+        <item>茶</item>
+        <item>苹果</item>
+        <item>橙子</item>
+        <item>草莓</item>
+        <item>西瓜</item>
+        <item>药丸</item>
+        <item>吸烟</item>
+        <item>圣诞树</item>
+        <item>玫瑰</item>
+        <item>礼花</item>
+        <item>椰树</item>
+        <item>礼物</item>
+        <item>蝴蝶结</item>
+        <item>气球</item>
+        <item>贝壳</item>
+        <item>指环</item>
+        <item>炸弹</item>
+        <item>皇冠</item>
+        <item>钟</item>
+        <item>星标</item>
+        <item>闪烁</item>
+        <item>跑远</item>
+        <item>喷口水</item>
+        <item>怒火</item>
+        <item>奖杯</item>
+        <item>钱</item>
+        <item>困</item>
+        <item>闪电</item>
+        <item>脚印</item>
+        <item>屎</item>
+        <item>打针</item>
+        <item>辣</item>
+        <item>邮箱</item>
+        <item>钥匙</item>
+        <item>锁</item>
+        <item>飞机</item>
+        <item>火车</item>
+        <item>轿车</item>
+        <item>船</item>
+        <item>自行车</item>
+        <item>马</item>
+        <item>火箭</item>
+        <item>巴士</item>
+        <item>帆船</item>
+        <item>女人</item>
+        <item>男人</item>
+        <item>女孩</item>
+        <item>男孩</item>
+        <item>猴头</item>
+        <item>章鱼</item>
+        <item>猪头</item>
+        <item>外星人</item>
+        <item>鸭子</item>
+        <item>熊</item>
+        <item>奶牛</item>
+        <item>公鸡</item>
+        <item>青蛙</item>
+        <item>鬼</item>
+        <item>骷髅</item>
+        <item>毛毛虫</item>
+        <item>鱼</item>
+        <item>狗</item>
+        <item>猫</item>
+        <item>天使</item>
+        <item>小鸟</item>
+        <item>鲸鱼</item>
+        <item>老鼠</item>
+        <item>帽子</item>
+        <item>裙子</item>
+        <item>唇膏</item>
+        <item>高跟鞋</item>
+        <item>靴子</item>
+        <item>伞</item>
+        <item>包</item>
+        <item>比基尼</item>
+        <item>衬衣</item>
+        <item>皮鞋</item>
+        <item>云</item>
+        <item>太阳</item>
+        <item>下雨</item>
+        <item>月亮</item>
+        <item>下雪</item>
+        <item>圈</item>
+        <item>叉</item>
+        <item>问号</item>
+        <item>叹号</item>
+        <item>电话</item>
+        <item>相机</item>
+        <item>手机</item>
+        <item>传真机</item>
+        <item>屏幕</item>
+        <item>摄影机</item>
+        <item>卡拉OK</item>
+        <item>枪</item>
+        <item>光盘</item>
+        <item>心</item>
+        <item>扑克</item>
+        <item>麻将</item>
+        <item>股票</item>
+        <item>老虎机</item>
+        <item>交通灯</item>
+        <item>路障</item>
+        <item>吉他</item>
+        <item>理发店</item>
+        <item>洗澡</item>
+        <item>马桶</item>
+        <item>房子</item>
+        <item>教堂</item>
+        <item>银行</item>
+        <item>医院</item>
+        <item>酒店</item>
+        <item>ATM</item>
+        <item>便利店</item>
+        <item>男性</item>
+        <item>女性</item>
+    </string-array></file><file path="E:\Test\AndroidLibs\src\main\res\values\attrs.xml" qualifiers=""><declare-styleable name="PullToRefresh">
+
+        <!-- A drawable to use as the background of the Refreshable View -->
+        <attr format="reference|color" name="ptrRefreshableViewBackground"/>
+
+        <!-- A drawable to use as the background of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderBackground"/>
+
+        <!-- Text Color of the Header and Footer Loading Views -->
+        <attr format="reference|color" name="ptrHeaderTextColor"/>
+
+        <!-- Text Color of the Header and Footer Loading Views Sub Header -->
+        <attr format="reference|color" name="ptrHeaderSubTextColor"/>
+
+        <!-- Mode of Pull-to-Refresh that should be used -->
+        <attr name="ptrMode">
+            <flag name="disabled" value="0x0"/>
+            <flag name="pullFromStart" value="0x1"/>
+            <flag name="pullFromEnd" value="0x2"/>
+            <flag name="both" value="0x3"/>
+            <flag name="manualOnly" value="0x4"/>
+
+            <!-- These last two are depreacted -->
+            <flag name="pullDownFromTop" value="0x1"/>
+            <flag name="pullUpFromBottom" value="0x2"/>
+        </attr>
+
+        <!-- Whether the Indicator overlay(s) should be used -->
+        <attr format="reference|boolean" name="ptrShowIndicator"/>
+
+        <!-- Drawable to use as Loading Indicator. Changes both Header and Footer. -->
+        <attr format="reference" name="ptrDrawable"/>
+
+        <!-- Drawable to use as Loading Indicator in the Header View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableStart"/>
+
+        <!-- Drawable to use as Loading Indicator in the Footer View. Overrides value set in ptrDrawable. -->
+        <attr format="reference" name="ptrDrawableEnd"/>
+
+        <!-- Whether Android's built-in Over Scroll should be utilised for Pull-to-Refresh. -->
+        <attr format="reference|boolean" name="ptrOverScroll"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views -->
+        <attr format="reference" name="ptrHeaderTextAppearance"/>
+
+        <!-- Base text color, typeface, size, and style for Header and Footer Loading Views Sub Header -->
+        <attr format="reference" name="ptrSubHeaderTextAppearance"/>
+
+        <!-- Style of Animation should be used displayed when pulling. -->
+        <attr name="ptrAnimationStyle">
+            <flag name="rotate" value="0x0"/>
+            <flag name="flip" value="0x1"/>
+        </attr>
+
+        <!-- Whether the user can scroll while the View is Refreshing -->
+        <attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/>
+
+        <!--
+        	Whether PullToRefreshListView has it's extras enabled. This allows the user to be 
+        	able to scroll while refreshing, and behaves better. It acheives this by adding
+        	Header and/or Footer Views to the ListView.
+        -->
+        <attr format="reference|boolean" name="ptrListViewExtrasEnabled"/>
+
+        <!--
+        	Whether the Drawable should be continually rotated as you pull. This only
+        	takes effect when using the 'Rotate' Animation Style.
+        -->
+        <attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/>
+
+        <!-- BELOW HERE ARE DEPRECEATED. DO NOT USE. -->
+        <attr format="reference|color" name="ptrAdapterViewBackground"/>
+        <attr format="reference" name="ptrDrawableTop"/>
+        <attr format="reference" name="ptrDrawableBottom"/>
+    </declare-styleable><declare-styleable name="DotView">
+        <attr format="dimension" name="dot_radius"/>
+        <attr format="dimension" name="dot_span"/>
+        <attr format="color" name="dot_unselected_color"/>
+        <attr format="color" name="dot_selected_color"/>
+    </declare-styleable><declare-styleable name="StickyListHeadersListView">
+        <!-- View attributes -->
+        <attr name="android:clipToPadding"/>
+
+        <!-- ListView attributes -->
+        <attr name="android:drawSelectorOnTop"/>
+
+        <!-- StickyListHeaders attributes -->
+        <attr format="boolean" name="hasStickyHeaders"/>
+        <attr format="boolean" name="isDrawingListUnderStickyHeader"/>
+    </declare-styleable><declare-styleable name="KBListView">
+        <attr format="boolean" name="pinned_header"/>
+        <attr format="boolean" name="auto_load_more"/>
+        <attr format="boolean" name="no_footer"/>
+    </declare-styleable></file><file path="E:\Test\AndroidLibs\src\main\res\values\color.xml" qualifiers=""><color name="grey">#FF8D857E</color><color name="green">#FF96CD67</color><color name="white">#FFFFFFFF</color><color name="window_background">#FFFBFBFB</color><color name="red">#FFDD6145</color><color name="light_white">#FFF9F9F7</color><color name="transparent">#00FFFFFF</color><color name="pink">#FFFF7474</color><color name="dark_grey">#FF594F4F</color><color name="light_yellow">#FFFBB03B</color><color name="light_grey">#FFCCCCCC</color><color name="dark_background">#FFF2F1EA</color></file><file path="E:\Test\AndroidLibs\src\main\res\values\dimens.xml" qualifiers=""><dimen name="emoji_size">36px</dimen><dimen name="padding_medium">8dp</dimen><dimen name="indicator_internal_padding">4dp</dimen><dimen name="indicator_corner_radius">12dp</dimen><dimen name="indicator_right_padding">10dp</dimen><dimen name="padding_small">8dp</dimen><dimen name="smile_size">25dp</dimen><dimen name="header_footer_left_right_padding">24dp</dimen><dimen name="sizeSmile">3dip</dimen><dimen name="header_footer_top_bottom_padding">12dp</dimen><dimen name="richtext_textsize">14sp</dimen><dimen name="padding_large">16dp</dimen></file><file path="E:\Test\AndroidLibs\src\main\res\values\ids.xml" qualifiers=""><item name="gridview" type="id"/><item name="webview" type="id"/><item name="scrollview" type="id"/></file><file path="E:\Test\AndroidLibs\src\main\res\values\pull_refresh_strings.xml" qualifiers=""><string name="pull_to_refresh_from_bottom_pull_label">@string/pull_to_refresh_pull_label</string><string name="pull_to_refresh_pull_label">下拉刷新…</string><string name="pull_to_refresh_release_label">释放刷新…</string><string name="pull_to_refresh_refreshing_label">正在加载…</string><string name="pull_to_refresh_from_bottom_refreshing_label">@string/pull_to_refresh_refreshing_label</string><string name="pull_to_refresh_from_bottom_release_label">@string/pull_to_refresh_release_label</string></file><file path="E:\Test\AndroidLibs\src\main\res\values\strings.xml" qualifiers=""><string name="default_face">默认</string><string name="loading_more">正在加载</string><string name="emoji_face">Emoji</string><string name="contentDes">des</string></file><file path="E:\Test\AndroidLibs\src\main\res\values\styles.xml" qualifiers=""><style name="ProgressDialog" parent="android:style/Theme.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowNoTitle">true</item>
+        <item name="android:windowBackground">@color/window_background</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+    </style><style name="ProgressBar">
+        <item name="android:indeterminateOnly">true</item>
+        <item name="android:indeterminateBehavior">repeat</item>
+        <item name="android:indeterminateDrawable">@drawable/loading_progress</item>
+    </style></file><file path="E:\Test\AndroidLibs\src\main\res\values\umeng_common_strings.xml" qualifiers=""><string name="umeng_common_action_continue">Continue</string><string name="umeng_common_patch_finish">Patch finished,click to install it.</string><string name="umeng_common_network_break_alert">Please make sure you are connected to internet, download failed</string><string name="umeng_common_info_interrupt">dowload interrupted.</string><string name="umeng_common_action_pause">Pause</string><string name="umeng_common_download_notification_prefix">Downloading: </string><string name="umeng_common_download_finish">Download finished,click to install it.</string><string name="umeng_common_download_failed">Download Failed! </string><string name="umeng_common_silent_download_finish">New version is ready,click to install it.</string><string name="umeng_common_pause_notification_prefix">Pause: </string><string name="umeng_common_action_info_exist">The app is already in downloading list.</string><string name="umeng_common_icon">icon</string><string name="umeng_common_action_cancel">Cancel</string><string name="umeng_common_start_download_notification">Download start.</string><string name="umeng_common_start_patch_notification">Patch start.</string></file><file path="E:\Test\AndroidLibs\src\main\res\values\umeng_update_string.xml" qualifiers=""><string name="UMIgnore">Ingore this</string><string name="UMUpdateTitle">New version found</string><string name="UMUpdateCheck">2.4.1.20140228</string><string name="UMAppUpdate">App updating</string><string name="UMDialog_InstallAPK">The lastest version has been downloaded, install now ?</string><string name="UMTargetSize">Target size: </string><string name="UMUpdateContent">Update Content</string><string name="UMBreak_Network">Please make sure you are connected to internet,update failed</string><string name="UMNotNow">Not now</string><string name="UMToast_IsUpdating">Updating....</string><string name="UMUpdateSize">Update size: </string><string name="UMNewVersion">Latest version: </string><string name="UMGprsCondition">(Warning: Not WIFI Condition)</string><string name="UMUpdateNow">Update now</string></file><file path="E:\Test\AndroidLibs\src\main\res\values-zh\umeng_common_strings.xml" qualifiers="zh"><string name="umeng_common_action_continue">继续</string><string name="umeng_common_network_break_alert">请连接网络后再尝试！</string><string name="umeng_common_patch_finish">更新完成，请点击安装</string><string name="umeng_common_download_failed">下载失败</string><string name="umeng_common_silent_download_finish">新版本已经准备好，请点击安装</string><string name="umeng_common_pause_notification_prefix">暂停: </string><string name="umeng_common_download_finish">下载完成，请点击安装</string><string name="umeng_common_download_notification_prefix">正在下载: </string><string name="umeng_common_start_download_notification">正在下载应用</string><string name="umeng_common_start_patch_notification">正在更新安装包</string><string name="umeng_common_action_info_exist">正在下载中.</string><string name="umeng_common_action_pause">暂停</string><string name="umeng_common_action_cancel">取消</string><string name="umeng_common_info_interrupt">下载出错啦，请检查网络后继续。</string></file><file path="E:\Test\AndroidLibs\src\main\res\values-zh\umeng_update_string.xml" qualifiers="zh"><string name="UMNotNow">以后再说</string><string name="UMUpdateTitle">发现新版本</string><string name="UMIgnore">忽略该版</string><string name="UMDialog_InstallAPK">最新版本已下载，是否安装？</string><string name="UMTargetSize">新版本大小:</string><string name="UMUpdateNow">立即更新</string><string name="UMNewVersion">最新版本: </string><string name="UMUpdateContent">更新内容</string><string name="UMToast_IsUpdating">正在更新中....</string><string name="UMBreak_Network">未联网</string><string name="UMUpdateSize">仅需要下载:</string><string name="UMAppUpdate">应用更新</string><string name="UMGprsCondition">（提示：非WIFI环境）</string></file></source><source path="E:\Test\AndroidLibs\build\generated\res\rs\mme\debug"/><source path="E:\Test\AndroidLibs\build\generated\res\generated\mme\debug"/></dataSet><dataSet config="mme"><source path="E:\Test\AndroidLibs\src\mme\res"/></dataSet><dataSet config="debug"><source path="E:\Test\AndroidLibs\src\debug\res"/></dataSet><dataSet config="mmeDebug"><source path="E:\Test\AndroidLibs\src\mmeDebug\res"/></dataSet><mergedItems><configuration qualifiers=""><declare-styleable name="StickyListHeadersListView"><attr name="android:clipToPadding"/><attr name="android:drawSelectorOnTop"/><attr format="boolean" name="hasStickyHeaders"/><attr format="boolean" name="isDrawingListUnderStickyHeader"/></declare-styleable><declare-styleable name="PullToRefresh"><attr format="reference|color" name="ptrRefreshableViewBackground"/><attr format="reference|color" name="ptrHeaderBackground"/><attr format="reference|color" name="ptrHeaderTextColor"/><attr format="reference|color" name="ptrHeaderSubTextColor"/><attr name="ptrMode"><flag name="disabled" value="0x0"/><flag name="pullFromStart" value="0x1"/><flag name="pullFromEnd" value="0x2"/><flag name="both" value="0x3"/><flag name="manualOnly" value="0x4"/><flag name="pullDownFromTop" value="0x1"/><flag name="pullUpFromBottom" value="0x2"/></attr><attr format="reference|boolean" name="ptrShowIndicator"/><attr format="reference" name="ptrDrawable"/><attr format="reference" name="ptrDrawableStart"/><attr format="reference" name="ptrDrawableEnd"/><attr format="reference|boolean" name="ptrOverScroll"/><attr format="reference" name="ptrHeaderTextAppearance"/><attr format="reference" name="ptrSubHeaderTextAppearance"/><attr name="ptrAnimationStyle"><flag name="rotate" value="0x0"/><flag name="flip" value="0x1"/></attr><attr format="reference|boolean" name="ptrScrollingWhileRefreshingEnabled"/><attr format="reference|boolean" name="ptrListViewExtrasEnabled"/><attr format="reference|boolean" name="ptrRotateDrawableWhilePulling"/><attr format="reference|color" name="ptrAdapterViewBackground"/><attr format="reference" name="ptrDrawableTop"/><attr format="reference" name="ptrDrawableBottom"/></declare-styleable><declare-styleable name="KBListView"><attr format="boolean" name="pinned_header"/><attr format="boolean" name="auto_load_more"/><attr format="boolean" name="no_footer"/></declare-styleable><declare-styleable name="DotView"><attr format="dimension" name="dot_radius"/><attr format="dimension" name="dot_span"/><attr format="color" name="dot_unselected_color"/><attr format="color" name="dot_selected_color"/></declare-styleable></configuration></mergedItems></merger>

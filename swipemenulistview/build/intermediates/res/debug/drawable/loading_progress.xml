@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@android:id/background"
+        android:drawable="@drawable/global_loading_default" />
+    <item android:id="@android:id/progress">
+        <clip
+            android:clipOrientation="vertical"
+            android:drawable="@drawable/global_loading_complete"
+            android:gravity="bottom" />
+    </item>
+</layer-list><!-- From: file:/Users/changbinhe/Documents/Dajiahui/Shared/Code/Android/OTSDK/AndroidLibs/src/main/res/drawable/loading_progress.xml --><!-- From: file:/E:/Test/swipemenulistview/build/intermediates/exploded-aar/AndroidLibs-1.1/res/drawable/loading_progress.xml -->

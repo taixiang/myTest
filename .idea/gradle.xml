@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="LOCAL" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="E:\Android\Android Studio\gradle\gradle-2.4" />
+        <option name="gradleJvm" value="1.7" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/AndroidLibs" />
+            <option value="$PROJECT_DIR$/Mpchartexample" />
+            <option value="$PROJECT_DIR$/achartengine" />
+            <option value="$PROJECT_DIR$/android-pdfview" />
+            <option value="$PROJECT_DIR$/app" />
+            <option value="$PROJECT_DIR$/demo_WeChat_Friends_Circle" />
+            <option value="$PROJECT_DIR$/friends" />
+            <option value="$PROJECT_DIR$/listviewsliding" />
+            <option value="$PROJECT_DIR$/meituan" />
+            <option value="$PROJECT_DIR$/myapplication" />
+            <option value="$PROJECT_DIR$/myapplication2" />
+            <option value="$PROJECT_DIR$/mychart" />
+            <option value="$PROJECT_DIR$/okhttp" />
+            <option value="$PROJECT_DIR$/okhttpdemo" />
+            <option value="$PROJECT_DIR$/okhttplibrary" />
+            <option value="$PROJECT_DIR$/okhttptest" />
+            <option value="$PROJECT_DIR$/okhttputils" />
+            <option value="$PROJECT_DIR$/otto" />
+            <option value="$PROJECT_DIR$/pulltorefresh" />
+            <option value="$PROJECT_DIR$/pulltorefresh-debug" />
+            <option value="$PROJECT_DIR$/qihuo" />
+            <option value="$PROJECT_DIR$/recoder" />
+            <option value="$PROJECT_DIR$/splashtest" />
+            <option value="$PROJECT_DIR$/subscribe" />
+            <option value="$PROJECT_DIR$/swipemenulistview" />
+            <option value="$PROJECT_DIR$/tabhosttest" />
+            <option value="$PROJECT_DIR$/topNewGrid" />
+            <option value="$PROJECT_DIR$/vCameraDemo" />
+            <option value="$PROJECT_DIR$/vitamioRecorderLibrary" />
+            <option value="$PROJECT_DIR$/wechat" />
+            <option value="$PROJECT_DIR$/xclcharts" />
+            <option value="$PROJECT_DIR$/xutil" />
+            <option value="$PROJECT_DIR$/xutiltest" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

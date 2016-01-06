@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/example/test/widget/ClipView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/demo_WeChat_Friends_Circle/src/main/java/com/msquirrel/ui/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/demo_WeChat_Friends_Circle/src/main/java/com/msquirrel/ui/MyTextView.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/Comment.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/Item.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/MainActivity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/UserImage.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/ui/ItemView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/ui/MoreTextView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/friends/src/main/java/com/example/friends/ui/NoScrollGridView.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/myapplication/src/main/assets/demo.html" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/okhttpdemo/build.gradle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/okhttpdemo/src/main/java/com/example/okhttpdemo/Main2Activity.java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/okhttpdemo/src/main/java/com/example/okhttpdemo/OkHttpClientManager.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/ChannelActivity.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/adapter/DragAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/adapter/OtherAdapter.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/app/AppApplication.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/bean/ChannelItem.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/bean/ChannelManage.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/dao/ChannelDao.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/dao/ChannelDaoInface.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/db/DBUtil.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/db/SQLHelper.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/tools/DataTools.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/view/DragGrid.java" charset="GBK" />
+    <file url="file://$PROJECT_DIR$/topNewGrid/src/main/java/com/example/topnewgrid/view/OtherGridView.java" charset="GBK" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

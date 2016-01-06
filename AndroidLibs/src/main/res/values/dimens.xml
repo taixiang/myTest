@@ -1,0 +1,17 @@
+<resources>
+
+    <dimen name="padding_small">8dp</dimen>
+    <dimen name="padding_medium">8dp</dimen>
+    <dimen name="padding_large">16dp</dimen>
+    
+    <dimen name="smile_size">25dp</dimen>
+    <dimen name="sizeSmile">3dip</dimen>
+    <dimen name="emoji_size">36px</dimen>
+    <dimen name="richtext_textsize">14sp</dimen>
+	
+	<dimen name="indicator_right_padding">10dp</dimen>
+    <dimen name="indicator_corner_radius">12dp</dimen>
+    <dimen name="indicator_internal_padding">4dp</dimen>
+    <dimen name="header_footer_left_right_padding">24dp</dimen>
+    <dimen name="header_footer_top_bottom_padding">12dp</dimen>
+</resources>

@@ -1,0 +1,20 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@android:color/black"
+    tools:context=".MainActivity" >
+
+
+            <com.example.test.widget.ClipImageView
+                android:id="@+id/src_pic"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent"/>
+
+            <com.example.test.widget.ClipView
+                android:id="@+id/clipview"
+                android:layout_width="fill_parent"
+                android:layout_height="fill_parent" />
+
+
+</RelativeLayout>

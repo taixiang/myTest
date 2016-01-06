@@ -1,0 +1,35 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+        <FrameLayout
+            android:id="@+id/realContent"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            />
+        <android.support.v4.app.FragmentTabHost
+            android:id="@android:id/tabhost"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/global_background_tab_bar"
+            >
+            <FrameLayout
+                android:id="@android:id/tabcontent"
+                android:layout_width="0dp"
+                android:layout_height="0dp"
+                android:layout_weight="0"
+                />
+        </android.support.v4.app.FragmentTabHost>
+
+    </RelativeLayout>
+
+
+
+
+</RelativeLayout>
+<!-- From: file:/E:/Test/tabhosttest/src/main/res/layout/activity_main.xml -->

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:drawable="@drawable/global_input_face_type_background_click" android:state_checked="true" android:state_enabled="true"/>
+    <item android:drawable="@drawable/global_input_face_type_background_default"/>
+
+</selector><!-- From: file:/E:/Test/AndroidLibs/src/main/res/drawable/emotion_smiley_tab_bg.xml -->

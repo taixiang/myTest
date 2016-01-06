@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/red"  android:state_selected="true" ></item>
+    <item android:drawable="@color/red" android:state_focused="true" ></item>
+    <item android:drawable="@color/white"></item>
+</selector><!-- From: file:/E:/Test/tabhosttest/src/main/res/drawable/tab_first.xml -->

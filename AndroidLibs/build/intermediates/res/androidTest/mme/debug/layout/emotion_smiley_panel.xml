@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:kaixinbaby="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#FFFFFF"
+        android:orientation="vertical"
+        android:paddingBottom="0dp">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:background="#FFFFFF"
+            android:orientation="vertical">
+
+            <org.taptwo.android.widget.ViewFlow
+                android:id="@+id/smile_page"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:fadingEdge="none"
+                android:minHeight="55dp"
+                android:spacing="0dp" />
+
+            <com.overtake.emotion.view.DotView
+                android:layout_below="@id/smile_page"
+                android:id="@+id/smiley_panel_dot"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:orientation="horizontal"
+                android:paddingBottom="6.0dip"
+                kaixinbaby:dot_radius="2.5dp"
+                kaixinbaby:dot_selected_color="#FFFFFF"
+                kaixinbaby:dot_span="7dp" />
+        </RelativeLayout>
+
+        <RadioGroup
+            android:id="@+id/smiley_panel_btn_group"
+            android:layout_width="match_parent"
+            android:layout_height="40dp"
+            android:orientation="horizontal"
+            android:layout_marginLeft="0dp"
+            android:padding="0dp"
+            android:paddingLeft="0dp"
+            android:paddingBottom="0dp"
+            android:background="@drawable/global_input_face_select_bottom_background">
+
+            <RadioButton
+                android:id="@+id/smiley_panel_def_btn"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:button="@null"
+                android:layout_width="80dp"
+                android:layout_height="wrap_content"
+                android:layout_marginBottom="0dp"
+                android:background="@drawable/emotion_smiley_tab_bg"
+                android:checked="true"
+                android:textColor="@color/light_grey"
+                android:text="@string/default_face" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/global_vertical_line"
+                android:contentDescription="@string/contentDes" />
+
+            <RadioButton
+                android:id="@+id/smiley_panel_emoji_btn"
+                android:textSize="18sp"
+                android:gravity="center"
+                android:button="@null"
+                android:layout_width="80dp"
+                android:textColor="@color/light_grey"
+                android:layout_height="wrap_content"
+                android:background="@drawable/emotion_smiley_tab_bg"
+                android:text="@string/emoji_face"
+                android:checked="false" />
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="match_parent"
+                android:src="@drawable/global_vertical_line"
+                android:contentDescription="@string/contentDes" />
+        </RadioGroup>
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="0dip"
+        android:layout_height="0dip" />
+</LinearLayout><!-- From: file:/E:/Test/AndroidLibs/src/main/res/layout/emotion_smiley_panel.xml --><!-- From: file:/E:/Test/AndroidLibs/build/intermediates/bundles/mme/debug/res/layout/emotion_smiley_panel.xml -->

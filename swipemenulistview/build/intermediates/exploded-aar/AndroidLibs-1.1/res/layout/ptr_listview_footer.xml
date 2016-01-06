@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="wrap_content">
+
+    <RelativeLayout
+        android:id="@+id/ptr_id_listview_footer"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:clickable="false"
+        android:minHeight="40dp">
+
+        <ImageView
+            android:id="@+id/ptr_id_listview_footer_nomore"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_centerHorizontal="true"
+            android:layout_marginBottom="25dp"
+            android:layout_marginTop="35dp"
+            android:contentDescription="@string/contentDes" />
+
+        <RelativeLayout
+            android:layout_height="wrap_content"
+            android:layout_width="wrap_content"
+            android:layout_marginBottom="25dp"
+            android:layout_centerInParent="true">
+
+            <ProgressBar
+                android:layout_width="25dp"
+                android:layout_height="18dp"
+                android:layout_marginBottom="25dp"
+                android:id="@+id/ptr_id_listview_footer_loading_more"
+                style="@style/ProgressBar" />
+
+            <TextView
+                android:id="@+id/ptr_id_listview_footer_loading_more_title"
+                android:layout_toRightOf="@id/ptr_id_listview_footer_loading_more"
+                android:layout_marginBottom="25dp"
+                android:textColor="@color/grey"
+                android:layout_height="wrap_content"
+                android:layout_width="wrap_content"
+                android:text="@string/loading_more" />
+        </RelativeLayout>
+    </RelativeLayout>
+
+</LinearLayout><!-- From: file:/Users/changbinhe/Documents/Dajiahui/Shared/Code/Android/OTSDK/AndroidLibs/src/main/res/layout/ptr_listview_footer.xml -->

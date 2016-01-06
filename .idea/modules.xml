@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/AndroidLibs/AndroidLibs.iml" filepath="$PROJECT_DIR$/AndroidLibs/AndroidLibs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Mpchartexample/Mpchartexample.iml" filepath="$PROJECT_DIR$/Mpchartexample/Mpchartexample.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Test.iml" filepath="$PROJECT_DIR$/Test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/achartengine/achartengine.iml" filepath="$PROJECT_DIR$/achartengine/achartengine.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-pdfview/android-pdfview.iml" filepath="$PROJECT_DIR$/android-pdfview/android-pdfview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo_WeChat_Friends_Circle/demo_WeChat_Friends_Circle.iml" filepath="$PROJECT_DIR$/demo_WeChat_Friends_Circle/demo_WeChat_Friends_Circle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/friends/friends.iml" filepath="$PROJECT_DIR$/friends/friends.iml" />
+      <module fileurl="file://$PROJECT_DIR$/listviewsliding/listviewsliding.iml" filepath="$PROJECT_DIR$/listviewsliding/listviewsliding.iml" />
+      <module fileurl="file://$PROJECT_DIR$/meituan/meituan.iml" filepath="$PROJECT_DIR$/meituan/meituan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication/myapplication.iml" filepath="$PROJECT_DIR$/myapplication/myapplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/mychart/mychart.iml" filepath="$PROJECT_DIR$/mychart/mychart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttp/okhttp.iml" filepath="$PROJECT_DIR$/okhttp/okhttp.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" filepath="$PROJECT_DIR$/okhttpdemo/okhttpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttplibrary/okhttplibrary.iml" filepath="$PROJECT_DIR$/okhttplibrary/okhttplibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttptest/okhttptest.iml" filepath="$PROJECT_DIR$/okhttptest/okhttptest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/okhttputils/okhttputils.iml" filepath="$PROJECT_DIR$/okhttputils/okhttputils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/otto/otto.iml" filepath="$PROJECT_DIR$/otto/otto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" filepath="$PROJECT_DIR$/pulltorefresh/pulltorefresh.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pulltorefresh-debug/pulltorefresh-debug.iml" filepath="$PROJECT_DIR$/pulltorefresh-debug/pulltorefresh-debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/qihuo/qihuo.iml" filepath="$PROJECT_DIR$/qihuo/qihuo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/recoder/recoder.iml" filepath="$PROJECT_DIR$/recoder/recoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/splashtest/splashtest.iml" filepath="$PROJECT_DIR$/splashtest/splashtest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/subscribe/subscribe.iml" filepath="$PROJECT_DIR$/subscribe/subscribe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/swipemenulistview/swipemenulistview.iml" filepath="$PROJECT_DIR$/swipemenulistview/swipemenulistview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tabhosttest/tabhosttest.iml" filepath="$PROJECT_DIR$/tabhosttest/tabhosttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topNewGrid/topNewGrid.iml" filepath="$PROJECT_DIR$/topNewGrid/topNewGrid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vCameraDemo/vCameraDemo.iml" filepath="$PROJECT_DIR$/vCameraDemo/vCameraDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/vitamioRecorderLibrary/vitamioRecorderLibrary.iml" filepath="$PROJECT_DIR$/vitamioRecorderLibrary/vitamioRecorderLibrary.iml" />
+      <module fileurl="file://$PROJECT_DIR$/wechat/wechat.iml" filepath="$PROJECT_DIR$/wechat/wechat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xclcharts/xclcharts.iml" filepath="$PROJECT_DIR$/xclcharts/xclcharts.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutil/xutil.iml" filepath="$PROJECT_DIR$/xutil/xutil.iml" />
+      <module fileurl="file://$PROJECT_DIR$/xutiltest/xutiltest.iml" filepath="$PROJECT_DIR$/xutiltest/xutiltest.iml" />
+    </modules>
+  </component>
+</project>

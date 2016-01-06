@@ -1,0 +1,2 @@
+configurations.create("default")
+artifacts.add("default", file('android-pdfview-1.0.aar'))
